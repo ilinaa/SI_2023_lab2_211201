@@ -3,7 +3,8 @@
 
 Control Flow Graph
 
-![SI211201](https://github.com/ilinaa/SI_2023_lab2_211201/assets/118665307/fbc9c161-9319-4ab9-9494-6113716da179)
+
+![SI211201](https://github.com/ilinaa/SI_2023_lab2_211201/assets/118665307/607e8500-7126-44f0-a0c9-ba4f0d50c998)
 
 
 Цикломатска комплексност
